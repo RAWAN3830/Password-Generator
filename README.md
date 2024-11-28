@@ -21,7 +21,7 @@ Welcome to the **Password Generator** project! 🎉 This is a simple, fun, and �
 
 ---
 
-##💡 What I Learned
+## 💡 What I Learned
 This project was all about React Hooks and state management!
 Here are the key takeaways:
 
@@ -32,7 +32,7 @@ Here are the key takeaways:
 
 ---
 
-**🦸 About Me**
+## 🦸 About Me
 Just a curious developer experimenting with React.
 This project is for learning and laughs, so don't expect enterprise-level security. (But hey, the passwords are pretty cool!)
 
